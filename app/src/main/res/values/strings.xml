@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InstaClone</string>
+    <string name="action_settings">Settings</string>
+    <string name="email">EMAIL</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">LOGIN</string>
+    <string name="create_account">CREATE ACCOUNT</string>
+    <string name="register">REGISTER</string>
+    <string name="save_profile">SAVE PROFILE</string>
+    <string name="username">USERNAME</string>
+    <string name="status">STATUS</string>
+    <string name="title_activity_instagram_home">InstagramHome</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="instagram_home">Instagram Home</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instagram_post_fragment">Instagram Posts</string>
+    <string name="following">Following</string>
+    <string name="popular">Popular</string>
+</resources>
